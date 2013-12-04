@@ -71,10 +71,11 @@ github_skip_forks: true
 # Twitter
 twitter_user:
 twitter_tweet_button: true
+twitter_show_follower_count: true
 
 # Google +1
-google_plus_one: false
-google_plus_one_size: medium
+google_plus_one: true
+google_plus_one_size: small
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
@@ -90,8 +91,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: pandorafury.discus.com
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
