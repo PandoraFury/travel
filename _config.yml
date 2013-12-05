@@ -98,4 +98,5 @@ disqus_show_comment_count: true
 google_analytics_tracking_id:
 
 # Facebook Like
+facebook_user: PandoraFuryTravels
 facebook_like: true
